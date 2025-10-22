@@ -1,2 +1,3 @@
-# Inventory-Management-Dashboard
-Inventory Management Dashboard 📊 Power BI dashboard for warehouse analytics — tracks ₹77.33M stock value, 303 SKUs, and a 5.25 turnover ratio. Includes SKU performance, stock alerts, reorder suggestions, ABC analysis, and demand pattern insights (Uniform / Variable / Uncertain).
+## Inventory-Management-Dashboard ##
+A Power BI–based analytical dashboard that delivers deep insights into warehouse performance and SKU efficiency. It visualizes key metrics such as warehouse value (₹77.33M), 303 SKUs, and a 5.25 turnover ratio — helping teams optimize stock levels, reduce holding costs, and make smarter reorder decisions.
+Includes ABC classification, demand pattern segmentation (Uniform, Variable, Uncertain), and dynamic visuals for proactive inventory management.
